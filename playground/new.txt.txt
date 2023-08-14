@@ -1,0 +1,5 @@
+{{#user}
+Name: Herain Pratap Singh
+Skills: HTML, CSS, JS,GSAP,SQL, React.JS
+Email: herainpratapsingh@gmail.com
+{{/user}}
